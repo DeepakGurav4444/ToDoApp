@@ -1,6 +1,7 @@
 # todoapp
 
 A new Flutter application.
+This application includes the database oprations as insert, delete , update and retrive using sqflite and path_provider libraries.
 
 ## Getting Started
 
